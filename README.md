@@ -1,4 +1,4 @@
-## **Landing Page of University website**
+# **Landing Page of University website**
 <br>
 
 > It is a static landing web-page of University website.
