@@ -118,6 +118,8 @@ nav .fa {
   display: none;
 }
 
+/* Responsive Layout made */
+
 @media (max-width: 700px) {
   .text-box h1 {
     font-size: 20px;
