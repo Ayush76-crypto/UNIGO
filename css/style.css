@@ -164,6 +164,7 @@ p {
 }
 
 /* ------Campus------- */
+
 .campus {
   width: 80%;
   margin: auto;
@@ -226,7 +227,7 @@ p {
 
 @media all and (max-width: 500px) {
   .card-list {
-    /* On small screens, we are no longer using row direction but column */
+    /* On small screens, we are no longer using row direction  */
     flex-direction: column;
   }
 }
