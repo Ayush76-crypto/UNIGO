@@ -14,3 +14,5 @@
 </details>
 <br>
 The web page is completely responsive and all the final images of the website is in : <strong>final-website-images</strong> folder
+<br>
+Click to view -> https://ayush76-crypto.github.io/UNIGO/
